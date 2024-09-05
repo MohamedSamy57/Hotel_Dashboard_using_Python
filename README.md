@@ -1,5 +1,5 @@
 # Hotel Performance Analysis Dashboard
-![Uploading My_DashBoard.png…]()
+![My_DashBoard](https://github.com/user-attachments/assets/1a456025-4b8a-4fa9-a2e1-6205c6adb21f)
 
 
 ## Project Overview
