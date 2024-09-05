@@ -1,4 +1,6 @@
 # Hotel Performance Analysis Dashboard
+![Uploading My_DashBoard.png…]()
+
 
 ## Project Overview
 
